@@ -1,0 +1,25 @@
+[2025-11-16 15:15:27] - ===== Skrip Recon Otomatis Dimulai =====
+[2025-11-16 15:15:27] - Mengecek dependensi (subfinder, anew, httpx)...
+[2025-11-16 15:15:27] - 
+[2025-11-16 15:21:11] - ===== Skrip Recon Otomatis Dimulai =====
+[2025-11-16 15:21:11] - Mengecek dependensi (subfinder, anew, httpx)...
+[2025-11-16 15:21:11] - FATAL: Alat 'anew' tidak ditemukan. Silakan install.
+[2025-11-16 15:22:31] - ===== Skrip Recon Otomatis Dimulai =====
+[2025-11-16 15:22:31] - Mengecek dependensi (subfinder, anew, httpx)...
+[2025-11-16 15:22:31] - FATAL: Alat 'anew' tidak ditemukan. Silakan install.
+[2025-11-16 21:43:06] - ===== Skrip Recon Otomatis Dimulai =====
+[2025-11-16 21:43:06] - Mengecek dependensi (subfinder, anew, httpx)...
+[2025-11-16 21:43:06] - Semua dependensi ditemukan.
+[2025-11-16 21:43:06] - Memulai enumerasi subdomain dari /home/alief/recon-automation-alief/input/domains.txt...
+[2025-11-16 21:43:06] - Memproses domain: pertamina-ptc.com
+[2025-11-16 21:43:16] - Memproses domain: 12306.cn
+[2025-11-16 21:43:27] - Memproses domain: dppln.co.id
+[2025-11-16 21:43:32] - Memproses domain: magentaku.id
+[2025-11-16 21:43:38] - Memproses domain: pu.go.id
+[2025-11-16 21:44:34] - Enumerasi subdomain selesai.
+[2025-11-16 21:44:34] - Memulai pengecekan live host (httpx)...
+[2025-11-16 21:44:59] - Pengecekan live host selesai. Hasil disimpan di /home/alief/recon-automation-alief/output/live.txt.
+[2025-11-16 21:44:59] - ===== Laporan Hasil Recon =====
+[2025-11-16 21:44:59] - Total subdomain unik ditemukan: 214
+[2025-11-16 21:44:59] - Total host live ditemukan     : 188
+[2025-11-16 21:44:59] - ===== Skrip Recon Otomatis Selesai =====

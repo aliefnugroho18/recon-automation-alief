@@ -1,0 +1,5 @@
+[2025-11-16 15:15:27] - 
+[2025-11-16 15:21:11] - FATAL: Alat 'anew' tidak ditemukan. Silakan install.
+[2025-11-16 15:22:31] - FATAL: Alat 'anew' tidak ditemukan. Silakan install.
+[[34mINF[0m] Detected old /home/alief/.config/subfinder/config.yaml config file, trying to migrate providers to /home/alief/.config/subfinder/provider-config.yaml
+[[34mINF[0m] Migration successful from /home/alief/.config/subfinder/config.yaml to /home/alief/.config/subfinder/provider-config.yaml.
